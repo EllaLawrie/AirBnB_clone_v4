@@ -159,7 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
   
-Bamidele Adefolaju - [Github](https://github.com/Lexxyla) / [Twitter](https://twitter.com/lexxyla). 
+Bamidele Adefolaju - [Github](https://github.com/Lexxyla) / [Twitter](https://twitter.com/lexxyla).
+  
 Emmanuella Amukwuo - [Github](https://github.com/EllaLawrie) / [Twitter](https://twitter.com/Ella__Lawrie)
 
 Second part of Airbnb: Joann Vuong
