@@ -160,7 +160,6 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
   
 Bamidele Adefolaju - [Github](https://github.com/Lexxyla) / [Twitter](https://twitter.com/lexxyla)
-  
 Emmanuella Amukwuo - [Github](https://github.com/EllaLawrie) / [Twitter](https://twitter.com/Ella__Lawrie)
 
 Second part of Airbnb: Joann Vuong
